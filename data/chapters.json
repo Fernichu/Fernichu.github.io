@@ -1,0 +1,177 @@
+[
+	{
+		"id": 1,
+		"name": "CAPITVLVM I",
+		"file": "chapter_1.json"
+	},
+	{
+		"id": 2,
+		"name": "CAPITVLVM II",
+		"file": "chapter_2.json"
+	},
+	{
+		"id": 3,
+		"name": "CAPITVLVM III",
+		"file": "chapter_3.json"
+	},
+	{
+		"id": 4,
+		"name": "CAPITVLVM IV",
+		"file": "chapter_4.json"
+	},
+	{
+		"id": 5,
+		"name": "CAPITVLVM V",
+		"file": "chapter_5.json"
+	},
+	{
+		"id": 6,
+		"name": "CAPITVLVM VI",
+		"file": "chapter_6.json"
+	},
+	{
+		"id": 7,
+		"name": "CAPITVLVM VII",
+		"file": "chapter_7.json"
+	},
+	{
+		"id": 8,
+		"name": "CAPITVLVM VIII",
+		"file": "chapter_8.json"
+	},
+	{
+		"id": 9,
+		"name": "CAPITVLVM IX",
+		"file": "chapter_9.json"
+	},
+	{
+		"id": 10,
+		"name": "CAPITVLVM X",
+		"file": "chapter_10.json"
+	},
+	{
+		"id": 11,
+		"name": "CAPITVLVM XI",
+		"file": "chapter_11.json"
+	},
+	{
+		"id": 12,
+		"name": "CAPITVLVM XII",
+		"file": "chapter_12.json"
+	},
+	{
+		"id": 13,
+		"name": "CAPITVLVM XIII",
+		"file": "chapter_13.json"
+	},
+	{
+		"id": 14,
+		"name": "CAPITVLVM XIV",
+		"file": "chapter_14.json"
+	},
+	{
+		"id": 15,
+		"name": "CAPITVLVM XV",
+		"file": "chapter_15.json"
+	},
+	{
+		"id": 16,
+		"name": "CAPITVLVM XVI",
+		"file": "chapter_16.json"
+	},
+	{
+		"id": 17,
+		"name": "CAPITVLVM XVII",
+		"file": "chapter_17.json"
+	},
+	{
+		"id": 18,
+		"name": "CAPITVLVM XVIII",
+		"file": "chapter_18.json"
+	},
+	{
+		"id": 19,
+		"name": "CAPITVLVM XIX",
+		"file": "chapter_19.json"
+	},
+	{
+		"id": 20,
+		"name": "CAPITVLVM XX",
+		"file": "chapter_20.json"
+	},
+	{
+		"id": 21,
+		"name": "CAPITVLVM XXI",
+		"file": "chapter_21.json"
+	},
+	{
+		"id": 22,
+		"name": "CAPITVLVM XXII",
+		"file": "chapter_22.json"
+	},
+	{
+		"id": 23,
+		"name": "CAPITVLVM XXIII",
+		"file": "chapter_23.json"
+	},
+	{
+		"id": 24,
+		"name": "CAPITVLVM XXIV",
+		"file": "chapter_24.json"
+	},
+	{
+		"id": 25,
+		"name": "CAPITVLVM XXV",
+		"file": "chapter_25.json"
+	},
+	{
+		"id": 26,
+		"name": "CAPITVLVM XXVI",
+		"file": "chapter_26.json"
+	},
+	{
+		"id": 27,
+		"name": "CAPITVLVM XXVII",
+		"file": "chapter_27.json"
+	},
+	{
+		"id": 28,
+		"name": "CAPITVLVM XXVIII",
+		"file": "chapter_28.json"
+	},
+	{
+		"id": 29,
+		"name": "CAPITVLVM XXIX",
+		"file": "chapter_29.json"
+	},
+	{
+		"id": 30,
+		"name": "CAPITVLVM XXX",
+		"file": "chapter_30.json"
+	},
+	{
+		"id": 31,
+		"name": "CAPITVLVM XXXI",
+		"file": "chapter_31.json"
+	},
+	{
+		"id": 32,
+		"name": "CAPITVLVM XXXII",
+		"file": "chapter_32.json"
+	},
+	{
+		"id": 33,
+		"name": "CAPITVLVM XXXIII",
+		"file": "chapter_33.json"
+	},
+	{
+		"id": 34,
+		"name": "CAPITVLVM XXXIV",
+		"file": "chapter_34.json"
+	},
+	{
+		"id": 35,
+		"name": "CAPITVLVM XXXV",
+		"file": "chapter_35.json"
+	}
+]
